@@ -5,7 +5,7 @@ def parrot (phrase = "Squawk!")
     puts "Pretty bird!"
     "Pretty bird!"
   else
-    puts "Squawk!"
-    "Squawk!"
+    puts phrase
+    phrase
   end
 end
