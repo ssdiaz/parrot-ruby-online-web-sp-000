@@ -5,4 +5,5 @@ def parrot (string)
     string = "Pretty bird!"
   else
     "Squawk!"
+  end
 end
