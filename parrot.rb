@@ -5,7 +5,8 @@ def parrot (string)
     puts "Pretty bird!"
     "Pretty bird!"
   else
-    puts "Squawk!"
     "Squawk!"
+    puts "Squawk!"
+
   end
 end
