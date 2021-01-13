@@ -2,10 +2,10 @@
 # returns the phrase
 def parrot (string)
   if string
-    puts = "Pretty bird!"
+    puts "Pretty bird!"
     "Pretty bird!"
   else
-    puts = "Squawk!"
+    puts "Squawk!"
     "Squawk!"
   end
 end
