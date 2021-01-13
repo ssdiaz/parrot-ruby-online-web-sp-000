@@ -6,6 +6,6 @@ def parrot (string)
     "Pretty Bird!"
   else
     puts = "Squawk!"
-    "Squak!"
+    "Squawk!"
   end
 end
