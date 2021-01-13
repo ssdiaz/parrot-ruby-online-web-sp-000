@@ -3,7 +3,7 @@
 def parrot (string)
   if string
     puts = "Pretty bird!"
-    "Pretty Bird!"
+    "Pretty bird!"
   else
     puts = "Squawk!"
     "Squawk!"
